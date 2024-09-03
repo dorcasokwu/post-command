@@ -1,0 +1,57 @@
+.DISPLAY-FLEX {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    gap: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    margin-top: 50px;
+  }
+  .IMAGE2 {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  .IMAGEDIV {
+    width: 50%;
+  }
+  .seo-friendly {
+    width: 50%;
+    height: 50%;
+    font-weight: 200;
+  }
+  .seo {
+    font-size: xx-large;
+  }
+  .seotext {
+    font-size: medium;
+    color: rgb(99, 94, 94);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 80%;
+  }
+  .readmore {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(70, 13, 70);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+  .readmore:hover {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(11, 224, 57);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    cursor: pointer;
+  }

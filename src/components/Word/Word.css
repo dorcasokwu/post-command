@@ -1,0 +1,37 @@
+.readmore4 {
+    width: 200px;
+    height: 40px;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+  }
+  .readmore4:hover {
+    width: 200px;
+    height: 30px;
+    background-color: rgb(8, 201, 40);
+    color: white;
+    text-align: center;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    padding-bottom: 30px;
+  }
+  .parenth11 {
+    text-align: center;
+  }
+  .p {
+    margin: 10px;
+    font-size: medium;
+    font-weight: 100;
+  }
+  .h11 {
+    font-size: xx-large;
+    font-weight: 400;
+    text-align: center;
+    /* margin-left: 50%; */
+  }
